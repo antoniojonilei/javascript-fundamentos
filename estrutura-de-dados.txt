@@ -1,0 +1,29 @@
+Estrutura de Dados
+
+Estrutura de dados é uma coisa, dados é outra coisa.
+
+Visa organizar e administram a estruturar os dados.
+
+FIFO (fila) - first in, First out
+LIFO (pilha) - Last in, First out
+Estrutura de Árvore - 
+-musicas
+	- rap
+	- rock
+		-beatles
+			-yellow-submarine.mp3
+TABELAS
+
+----Estrtura de Dados Básica----
+Int - Real - Letra - Bool - String
+
+variáveis e constantes
+
+Operações
+atribuições - aritmeticas - relacionais - lógicas
+
+
+
+
+
+	
