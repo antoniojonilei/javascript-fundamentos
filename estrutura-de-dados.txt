@@ -21,9 +21,3 @@ variáveis e constantes
 
 Operações
 atribuições - aritmeticas - relacionais - lógicas
-
-
-
-
-
-	
